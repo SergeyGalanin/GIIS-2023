@@ -12,4 +12,3 @@
 |8 |Яковчик Денис|[ElGansoDorado](https://github.com/ElGansoDorado)||||||||||||
 |9|Ковашевич Никита|[Gigantrusskoymisli](https://github.com/gigantrusskoymisli)||||||||||||
 |10|Федорук Александр|[Zhirbolostt](https://github.com/Zhirbolostt)||||||||||||
-T
